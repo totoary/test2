@@ -1,9 +1,0 @@
-{
-  "plugins": ["toggle-chapters", "github", "head-append", "sitemap"],
-  "pluginsConfig": {
-    "github": {
-        "url": "https://github.com/totoary/test2.git"
-    }
-   
-  }
-}
