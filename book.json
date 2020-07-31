@@ -1,0 +1,10 @@
+{
+    
+    "plugins": [
+       "folding-chapters",
+       "toggle-summary",
+       "toggle-chapters"
+       
+       
+    ]
+}
