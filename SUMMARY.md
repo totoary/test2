@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-- [TrustForm5.0가이드](trustform5.0/README.md)
+* [TrustForm5.0가이드](trustform5.0/README.md)
   * [copyNode](trustform5.0/copynode.md)
   * [TrustForm 5.0 소개](trustform5.0/trustform-5.0/README.md)
     * [TrustForm 5.0 소개](trustform5.0/trustform-5.0/trustform_intro.md)
-- [Reference](reference/README.md)
+*[Reference](reference/README.md)
   * [element](reference/element/README.md)
     * [datagrid](reference/element/datagrid/README.md)
       * [attribute](reference/element/datagrid/attribute/README.md)
