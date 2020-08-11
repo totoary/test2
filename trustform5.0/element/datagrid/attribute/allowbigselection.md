@@ -12,6 +12,10 @@ description: 그리드의 fixed cell 을 클릭해서 전체 셀들을 선택할
 
 * attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 allowbigselection 을 동적으로 제어하기 위해서는 allowBigSelection property 를 사용한다. 
 
+## **VALUES**
+
+* **true / false\(default\)**
+
 ## EXAMPLE
 
 {% code title="\[Static \]" %}
