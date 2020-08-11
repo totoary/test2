@@ -19,10 +19,10 @@ description: datagrid 가 여러 장에 걸쳐 print 될 때 모든 페이지 �
 
 {% code title="\[Static \]" %}
 ```bash
-<datagrid id="datagrid1" nodeset="/root/grid" 
-caption="Category1^Category1^Category2^Category2|Item1^Item2^Item3^Item4" 
-colsep="^" colwidth="100, 100, 100, 100" mergecellsfixedrows="bycolrec" rowsep="|"
- style="left:40px; top:220px; width:480px; height:260px; "> 
+<datagrid id="datagrid4" nodeset="/root/scrollSample/gridData/bankTransfer" 
+scroll="auto" caption="Bank^Date^Receiver^Amount" colsep="^" 
+colwidth="100, 100, 100, 100" mergecellsfixedrows="bycolrec" rowsep="|" 
+caption-layout="flow" style="left:6px; top:8px; width:325px; height:190px; ">
 ```
 {% endcode %}
 
