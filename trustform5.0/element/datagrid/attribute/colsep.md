@@ -11,8 +11,9 @@ colsep 속성은 이 Multi Update 기능 중 getUpdateData\(\) 와 같은 함수
 이 속성을 설정하지 않으면 기본으로 ^ 가 구분자로 지정된다.
 
 ```javascript
-<datagrid id="datagrid1" nodeset="/root/grid" caption="caption1^caption2^caption3" 
-colsep="%>" mergecellsfixedrows="bycolrec" rowheader="update" rowsep="|" 
-style="left:35px; top:50px; width:350px; height:150px; ">
+
+<datagrid id="datagrid1" nodeset="/root/grid" class="datagridClass" 
+caption="caption1^caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" 
+rowsep="|" style="left:30px; top:30px; width:350px; height:150px; "> 
 ```
 
