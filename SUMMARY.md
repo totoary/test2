@@ -6,6 +6,7 @@
   * [TrustForm 5.0 소개](trustform5.0/trustform-5.0/README.md)
     * [TrustForm 5.0 소개](trustform5.0/trustform-5.0/trustform-5.0.md)
   * [element](trustform5.0/element/README.md)
+    * [animation](trustform5.0/element/animation.md)
     * [datagrid](trustform5.0/element/datagrid/README.md)
       * [attribute](trustform5.0/element/datagrid/attribute/README.md)
         * [alert](trustform5.0/element/datagrid/attribute/alert.md)
