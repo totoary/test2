@@ -21,7 +21,7 @@ description: 사용자가 마우스나 키보드를 사용하여 셀을 다중�
 ## EXAMPLE
 
 {% code title="\[Static \]" %}
-```bash
+```markup
 <datagrid id="datagrid1" nodeset="/root/grid" allowselection="true" 
 caption="caption1^caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" rowsep="|" 
 style="left:35px; top:25px; width:350px; height:150px; ">
