@@ -12,3 +12,11 @@ description: 그리드를 일반 그리드로 사용할 지 라이트 그리드�
 
 xml\(default\) / delimeter
 
+
+
+```markup
+<datagrid id="datagrid2" nodeset="/root/g" caption="caption1^caption2^caption3" 
+colsep="^" datatype="delimeter" mergecellsfixedrows="bycolrec" rowsep="|" 
+style="left:420px; top:35px; width:350px; height:150px; "> 
+```
+
