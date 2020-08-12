@@ -21,7 +21,7 @@ datagrid 컨트롤의 tooltip attribute 와 함께 설정이 되어 있을 경�
 ## EXAMPLE
 
 {% code title="\[Static \]" %}
-```bash
+```markup
 <hint> 
 
       <![CDATA[ 이곳에 ToolTop의 내용을 입력하세요 ]]> 
