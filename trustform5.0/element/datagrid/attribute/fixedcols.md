@@ -10,7 +10,9 @@ description: 스크롤이 되지 않는 fixed col(고정된 열)의 갯수를 �
 
 이 속성을 설정하지 않으면 기본으로 fixed col 의 갯수는 0 으로 설정된다.
 
-* attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 fixedcols 를 동적으로 제어하기 위해서는 fixedCols property 를 사용한다.   
+{% hint style="info" %}
+attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 fixedcols 를 동적으로 제어하기 위해서는 fixedCols property 를 사용한다.   
+{% endhint %}
 
 ## EXAMPLE
 

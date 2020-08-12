@@ -1,20 +1,24 @@
 ---
-description: 그리드의 fixed cell 의 구분선을 더블클릭 해서 데이터의 길이만큼 행 또는 열의 넓이를 자동으로 변경할수 있도록 설정하는 속성이다.
+description: 사용자가 마우스로 행과 열의 크기를 조절할 수 있도록 설정하는 속성이다.
 ---
 
 # allowuserresize
 
 ### DESCRIPTION
 
-그리드 셀의 데이터가 셀이 표현할 수 있는 길이보다 길 경우 행 또는 열의 넓이가 자동으로 늘어나고 셀의 데이터가 짧을때는 줄어든다. 셀에 내용이 없는 경우에는 행이나 열의 넓이가 변하지 않는다. 단, 이 기능은 사용자가 행이나 열의 넓이를 조정할 수 있어야 하기 때문에 allowuserresize 속성이 true 로 설정되어 있을 때에만 동작한다.
+사용자가 마우스로 행과 열의 크기를 조절할 수 있도록 설정하는 속성이다. 이 속성이 true 로 설정되어 있을때 마우스를 fixed cell\(고정셀\) 의 가장자리로 가져가면 마우스 포인터가 크기를 조절하는 포인터로 바뀌고 그 위치에서 드래그를 하여 행 또는 열의 크기를 조절할 수 있다. 이 속성이 false 로 설정되어 있으면 마우스를 fixed cell\(고정셀\) 의 가장자리로 가지고 가도 마우스 포인터가 바뀌지 않는다.
 
-이 속성은 설정하지 않으면 기본으로 false 로 설정이 된다.
+사용자가 마우스로 행이나 열의 크기를 조절하면 셀의 크기가 변경되기 전에 onbeforeuserresize 이벤트가 발생하고 크기가 조절 된 후에 onafteruserresize 이벤트가 발생한다. 이 이벤트들은 특수한 경우에 열과 행의 크기가 변경되는 것을 방지하거나 다른 용도로 사용될 수 있다.
 
-* attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 autosizemouse 를 동적으로 제어하기 위해서는 autoSizeMouse property 를 사용한다. 
+이 속성은 설정하지 않으면 기본으로 true 로 설정이 된다.
+
+{% hint style="info" %}
+attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 allowuserresize 을 동적으로 제어하기 위해서는 allowUserResize property 를 사용한다.
+{% endhint %}
 
 ### **VALUES**
 
-* **true / false\(default\)**
+* **true\(default\) / false**
 
 ### EXAMPLE
 

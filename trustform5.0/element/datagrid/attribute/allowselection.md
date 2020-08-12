@@ -12,7 +12,9 @@ description: 사용자가 마우스나 키보드를 사용하여 셀을 다중�
 
 이 속성은 설정하지 않으면 기본으로 true 로 설정이 된다.
 
-* attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 allowselection 을 동적으로 제어하기 위해서는 allowSelection property 를 사용한다. 
+{% hint style="info" %}
+attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 allowselection 을 동적으로 제어하기 위해서는 allowSelection property 를 사용한다. 
+{% endhint %}
 
 ## **VALUES**
 
@@ -21,7 +23,7 @@ description: 사용자가 마우스나 키보드를 사용하여 셀을 다중�
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
-```bash
+```markup
 <datagrid id="datagrid1" nodeset="/root/grid" allowselection="true" 
 caption="caption1^caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" 
 rowsep="|" style="left:35px; top:25px; width:350px; height:150px; ">
