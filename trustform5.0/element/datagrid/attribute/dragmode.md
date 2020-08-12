@@ -18,12 +18,13 @@ dragmode 를 true 로 설정하면 사용자가 마우스로 datagrid 컨트롤�
 
 * true / false\(default\)
 
-## Once you're strong enough, save the world:
+## EXAMPLE
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+{% code title="Static" %}
+```markup
+<datagrid id="datagrid1" nodeset="/root/g" dragmode="true" 
+caption="caption1^caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" 
+rowsep="|" style="left:35px; top:35px; width:350px; height:150px; "> 
 ```
 {% endcode %}
 
