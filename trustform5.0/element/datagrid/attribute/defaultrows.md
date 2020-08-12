@@ -12,13 +12,9 @@ description: 그리드에 기본적으로 보여줄 행의 갯수를 설정하�
 
 lightgrid 에서 기본 행을 설정하는 것은 rows attribute 로 할 수 있다.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
 ## EXAMPLE
 
-{% code title="Static" %}
+{% code title="\[Static\]" %}
 ```markup
 <datagrid id="datagrid3" nodeset="/root/g" caption="caption1^caption2^caption3" 
 colsep="^" defaultrows="5" mergecellsfixedrows="bycolrec" rowsep="|" 

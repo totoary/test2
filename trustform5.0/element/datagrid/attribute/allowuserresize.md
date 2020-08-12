@@ -1,10 +1,8 @@
-# allowuserresize
-
+---
 description: 그리드의 fixed cell 의 구분선을 더블클릭 해서 데이터의 길이만큼 행 또는 열의 넓이를 자동으로 변경할수 있도록 설정하는 속성이다.
+---
 
-### \(열의 넓이를 조절하려면 caption 구간의 구분선을 더블클릭하고, 행의 높이를 조절하려면 좌측 fixedcell 구간의 구분선을 더블클릭하면 된다.\)
-
-## autosizemouse
+# allowuserresize
 
 ### DESCRIPTION
 
@@ -16,12 +14,12 @@ description: 그리드의 fixed cell 의 구분선을 더블클릭 해서 데이
 
 ### **VALUES**
 
-* **true / false\(default\)\**
+* **true / false\(default\)**
 
 ### EXAMPLE
 
-{% code title="\[Static \]" %}
-```bash
+{% code title="\[Static\]" %}
+```markup
 <datagrid id="datagrid1" nodeset="/root/g" allowuserresize="true" 
 caption="caption1^caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" 
 rowsep="|" autosizemouse="true" style="left:305px; top:165px; width:350px;

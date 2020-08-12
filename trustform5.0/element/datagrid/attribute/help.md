@@ -12,7 +12,7 @@ description: datagrid 컨트롤에 포커스를 주고 F1 을 누르면 알림�
 
 ## EXAMPLE
 
-{% code title="\[Static \]" %}
+{% code title="\[Static\]" %}
 ```markup
 <help>
 

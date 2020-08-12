@@ -20,7 +20,7 @@ datagrid 컨트롤의 tooltip attribute 와 함께 설정이 되어 있을 경�
 
 ## EXAMPLE
 
-{% code title="\[Static \]" %}
+{% code title="\[Static\]" %}
 ```markup
 <hint> 
 

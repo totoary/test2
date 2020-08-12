@@ -21,8 +21,8 @@ description: >-
 
 ### EXAMPLE
 
-{% code title="\[Static \]" %}
-```bash
+{% code title="\[Static\]" %}
+```markup
 <datagrid id="datagrid1" nodeset="/root/g" allowuserresize="true" 
 caption="caption1^caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" 
 rowsep="|" autosizemouse="true"

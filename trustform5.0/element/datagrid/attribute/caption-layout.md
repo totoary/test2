@@ -17,8 +17,8 @@ description: datagrid 가 여러 장에 걸쳐 print 될 때 모든 페이지 �
 
 ## EXAMPLE
 
-{% code title="\[Static \]" %}
-```bash
+{% code title="\[Static\]" %}
+```markup
 <datagrid id="datagrid4" nodeset="/root/scrollSample/gridData/bankTransfer" 
 scroll="auto" caption="Bank^Date^Receiver^Amount" colsep="^" 
 colwidth="100, 100, 100, 100" mergecellsfixedrows="bycolrec" rowsep="|" 

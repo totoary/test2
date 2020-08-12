@@ -14,12 +14,17 @@ description: 컨트롤에서 드롭을 할 수 있도록 설정하는 속성이�
 
 이 속성을 설정하지 않으면 기본으로 false 로 설정된다.
 
-## Once you're strong enough, save the world:
+## VALUES
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+* **true / false\(default\)**
+
+## EXAMPLE
+
+{% code title="\[Static\]" %}
+```markup
+<datagrid id="datagrid1" nodeset="/root/g" dropmode="true" caption="caption1^
+caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" rowsep="|" 
+style="left:35px; top:35px; width:350px; height:150px; ">
 ```
 {% endcode %}
 

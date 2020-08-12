@@ -14,9 +14,11 @@ xml\(default\) / delimeter
 
 
 
+{% code title="\[Static\]" %}
 ```markup
 <datagrid id="datagrid2" nodeset="/root/g" caption="caption1^caption2^caption3" 
 colsep="^" datatype="delimeter" mergecellsfixedrows="bycolrec" rowsep="|" 
 style="left:420px; top:35px; width:350px; height:150px; "> 
 ```
+{% endcode %}
 

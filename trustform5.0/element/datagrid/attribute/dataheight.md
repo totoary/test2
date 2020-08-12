@@ -12,9 +12,11 @@ description: 그리드의 caption 행을 제외한 데이터 행들의 높이 �
 
 
 
+{% code title="\[Static\]" %}
 ```markup
 <datagrid id="datagrid1" nodeset="/root/g" caption="caption1^caption2^caption3" 
 colsep="^" dataheight="30" mergecellsfixedrows="bycolrec" rowsep="|" 
 style="left:50px; top:35px; width:350px; height:150px; "> 
 ```
+{% endcode %}
 

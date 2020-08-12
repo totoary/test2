@@ -16,11 +16,11 @@ description: 셀 내용의 길이에 따라 행의 높이를 자동으로 조절
 
 ## **VALUES**
 
-* **true / false\(default\)\**
+* **true / false\(default\)**
 
 ## EXAMPLE
 
-{% code title="\[Static \]" %}
+{% code title="\[Static\]" %}
 ```bash
 <datagrid id="datagrid3" nodeset="/root/g" autoresize="true" 
 caption="caption1^caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" 

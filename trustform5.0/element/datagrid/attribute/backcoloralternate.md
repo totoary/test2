@@ -12,8 +12,8 @@ description: 그리드의 데이터 셀 영역에서 짝수번호 행에만 바�
 
 ## EXAMPLE
 
-{% code title="\[Static \]" %}
-```bash
+{% code title="\[Static\]" %}
+```markup
 <datagrid id="datagrid4" nodeset="/root/g" backcoloralternate="#00ffff" 
 caption="caption1^caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" 
 rowsep="|" style="left:80px; top:445px; width:350px; height:150px; ">

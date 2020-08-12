@@ -12,7 +12,7 @@ alert 속성을 줄 경우 이벤트를 설정할 수 있다.
 
 ## EXAMPLE
 
-{% code title="\[Static \]" %}
+{% code title="\[Static\]" %}
 ```markup
 <alert>
 

@@ -15,8 +15,8 @@ datagrid 의 caption 속성은 디자이너에서 datagrid 를 그린 후 captio
 
 ## EXAMPLE
 
-{% code title="\[Static \]" %}
-```bash
+{% code title="\[Static\]" %}
+```markup
 <datagrid id="datagrid1" nodeset="/root/grid" 
 caption="Category1^Category1^Category2^Category2|Item1^Item2^Item3^Item4" 
 colsep="^" colwidth="100, 100, 100, 100" mergecellsfixedrows="bycolrec" rowsep="|"
