@@ -16,7 +16,7 @@ lightgrid 에서 기본 행을 설정하는 것은 rows attribute 로 할 수 �
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-## Once you're strong enough, save the world:
+## EXAMPLE
 
 {% code title="Static" %}
 ```markup
