@@ -22,7 +22,7 @@ Attribute 의 disabled 은 단지 컨트롤의 초기 상태를 의미한다. �
 
 ## VALUES
 
-* true / false\(default\)
+* **true / false\(default\)**
 
 ## EXAMPLE
 

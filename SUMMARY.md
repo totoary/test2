@@ -34,5 +34,4 @@
         * [dragmode](trustform5.0/element/datagrid/attribute/dragmode.md)
         * [ellipsis](trustform5.0/element/datagrid/attribute/ellipsis.md)
         * [explorerbar](trustform5.0/element/datagrid/attribute/explorerbar.md)
-        * [deleteflagimage](trustform5.0/element/datagrid/attribute/deleteflagimage-1.md)
 

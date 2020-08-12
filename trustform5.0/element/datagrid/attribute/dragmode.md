@@ -10,13 +10,13 @@ dragmode 를 true 로 설정하면 사용자가 마우스로 datagrid 컨트롤�
 
 \(주의\) drag & drop 은 application view 에서는 동작하지 않고 IE 에서만 동작한다.
 
-* Drag & Drop 의 자세한 사용법은  TrustForm4.0 &gt; Drag&Drop 사용하기  참고.
+* Drag & Drop 의 자세한 사용법은  TrustForm5.0 &gt; Drag&Drop 사용하기  참고.
 
 이 속성을 설정하지 않으면 기본으로 false 로 설정된다.
 
 ## VALUES
 
-* true / false\(default\)
+* **true / false\(default\)**
 
 ## EXAMPLE
 
