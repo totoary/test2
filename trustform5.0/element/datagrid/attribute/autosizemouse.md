@@ -13,9 +13,7 @@ description: >-
 
 이 속성은 설정하지 않으면 기본으로 false 로 설정이 된다.
 
-{% hint style="info" %}
-attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 autosizemouse 를 동적으로 제어하기 위해서는 autoSizeMouse property 를 사용한다.   
-{% endhint %}
+* attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 autosizemouse 를 동적으로 제어하기 위해서는 autoSizeMouse property 를 사용한다.   
 
 ### **VALUES**
 

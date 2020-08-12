@@ -12,9 +12,7 @@ description: 셀 내용의 길이에 따라 행의 높이를 자동으로 조절
 
 이 속성은 설정하지 않으면 기본으로 false 로 설정이 된다.
 
-{% hint style="info" %}
-attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 autoresize 를 동적으로 제어하기 위해서는 autoResize property 를 사용한다.
-{% endhint %}
+* attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 autoresize 를 동적으로 제어하기 위해서는 autoResize property 를 사용한다. 
 
 ## **VALUES**
 
@@ -23,7 +21,7 @@ attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립�
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
-```markup
+```bash
 <datagrid id="datagrid3" nodeset="/root/g" autoresize="true" 
 caption="caption1^caption2^caption3" colsep="^" mergecellsfixedrows="bycolrec" 
 rowsep="|" style="left:30px; top:225px; width:350px; height:150px; ">

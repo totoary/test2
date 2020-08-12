@@ -15,7 +15,9 @@ description: 그리드의 fixed row 구간에서 주위에 같은 텍스트 데�
 
 그리드의 셀 병합의 자세한 내용은 TrustForm5.0 가이드 &gt; 컨트롤 &gt; grid 컨트롤 &gt; cell 병합하기 참고
 
-그리드를 생성하면 mergecellsfixedrows 속성은 자동으로 bycolrec 으로 설정된다. 이 속성을 설정하지 않고 비워두면 fixed row 구간의 셀들이 머지되지 않는다.
+그리드를 생성하면 mergecellsfixedrows 속성은 자동으로 bycolrec 으로 설정된다. 
+
+이 속성을 설정하지 않고 비워두면 fixed row 구간의 셀들이 머지되지 않는다.
 
 {% hint style="info" %}
 attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 mergecellsfixedrows 를 동적으로 제어하기 위해서는 mergeCellsFixedRows property 를 사용한다.

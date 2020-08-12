@@ -4,15 +4,13 @@ description: 그리드의 caption 행을 제외한 데이터 행들의 높이 �
 
 # dataheight
 
-## DESCRIPTION
+
 
 그리드의 caption 행을 제외한 데이터 행들의 높이 값을 설정하는 속성이다. 데이터 행들이 특정 높이로 보여져야 할 경우에 유용하다. 이 속성이 설정되지 않으면 기본 높이로 나타나게 된다.
 
-{% hint style="info" %}
-attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 dataheight 를 동적으로 제어하기 위해서는 dataHeight property 를 사용한다.  
-{% endhint %}
+* attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립트로 dataheight 를 동적으로 제어하기 위해서는 dataHeight property 를 사용한다.  
 
-## EXAMPLE
+
 
 {% code title="\[Static\]" %}
 ```markup

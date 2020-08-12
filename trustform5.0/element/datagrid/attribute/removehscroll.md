@@ -8,8 +8,10 @@ description: datagrid 가 print 될 때 세로 scroll 이 없어지면서 세로
 
 Datagrid 보다 우측에 있는 컨트롤들도 Datagrid 의 너비가 넓어진 만큼 우측으로 이동하여 겹치지 않게 print 된다.
 
+속성을 설정하지 않으면 기본값은 "false" 이다
+
 * true : datagrid 가 print 될 때 가로 scroll 이 없어지면서 가로로 모든 내용이 print 된다. 
-* false : 화면에 보이는 대로 print 된다. \(속성을 설정하지 않으면 기본값은 “false" 이다\)
+* false : 화면에 보이는 대로 print 된다.
 
 ## VALUES
 
