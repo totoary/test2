@@ -35,5 +35,3 @@ f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode(20) / ctrl+enter /
 
 
 
-
-
