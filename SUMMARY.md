@@ -26,7 +26,6 @@
       * [itemheight](trustform5.0/element/combo/itemheight.md)
       * [itemwidth](trustform5.0/element/combo/itemwidth.md)
       * [navindex](trustform5.0/element/combo/navindex.md)
-      * [overflow](trustform5.0/element/combo/overflow.md)
       * [pastemode](trustform5.0/element/combo/pastemode.md)
       * [ref](trustform5.0/element/combo/ref.md)
       * [rows](trustform5.0/element/combo/rows.md)
