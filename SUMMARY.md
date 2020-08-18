@@ -30,7 +30,6 @@
       * [ref](trustform5.0/element/combo/ref.md)
       * [rows](trustform5.0/element/combo/rows.md)
       * [scroll](trustform5.0/element/combo/scroll.md)
-      * [sep](trustform5.0/element/combo/sep.md)
       * [showtype](trustform5.0/element/combo/showtype.md)
       * [showvalue](trustform5.0/element/combo/showvalue.md)
       * [tag](trustform5.0/element/combo/tag.md)
