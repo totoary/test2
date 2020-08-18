@@ -16,7 +16,7 @@
         * [isDescendants](trustform5.0/element/combo/method/untitled-3.md)
         * [refresh](trustform5.0/element/combo/method/untitled-2.md)
         * [removeChild](trustform5.0/element/combo/method/untitled-1.md)
-        * [Untitled](trustform5.0/element/combo/method/untitled.md)
+        * [select](trustform5.0/element/combo/method/untitled.md)
         * [createChild](trustform5.0/element/combo/method/createchild.md)
       * [Untitled](trustform5.0/element/combo/untitled.md)
       * [alert](trustform5.0/element/combo/alert.md)
