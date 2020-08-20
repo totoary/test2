@@ -4,7 +4,7 @@ description: combo 컨트롤을 화면에 표시할 지를 설정하는 속성�
 
 # visibility
 
-## D
+## DESCRIPTION
 
 * visible : combo 컨트롤이 보인다.
 * hidden : combo 컨트롤이 보이지 않는다.

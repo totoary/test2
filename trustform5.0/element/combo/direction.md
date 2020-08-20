@@ -4,7 +4,7 @@ description: 아이템을 배치할 방향을 설정하는 속성이다.
 
 # direction
 
-## D
+## DESCRIPTION
 
 아이템을 배치할 방향을 설정하는 속성이다. 
 
