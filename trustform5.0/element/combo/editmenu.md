@@ -20,9 +20,8 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="combo2" ref="/root/input_combo" appearance="minimal" 
-editmode="input" editmenu="false" style="left:260px; top:403px; 
-width:200px; height:20px; ">
+<select1 id="combo2" ref="/root/input_combo" appearance="minimal" editmode="input"
+ editmenu="false" style="left:260px; top:403px; width:200px; height:20px; ">
 ```
 {% endcode %}
 
