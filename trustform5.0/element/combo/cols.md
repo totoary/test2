@@ -10,7 +10,7 @@ description: 아이템을 배치하기 위한 열의 개수를 설정하는 속�
 
 cols 를 설정하고 direction attribute 를 accrossdown 또는 downacross 로 설정하면 가로로 먼저 배치할지 세로로 먼저 배치 할지 정할 수 있다
 
-## E
+## EXAMPLE
 
 
 

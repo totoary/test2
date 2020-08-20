@@ -25,7 +25,6 @@
         * [removeChild](trustform5.0/element/combo/method/untitled-1.md)
         * [select](trustform5.0/element/combo/method/untitled.md)
         * [createChild](trustform5.0/element/combo/method/createchild.md)
-      * [Untitled](trustform5.0/element/combo/untitled.md)
       * [alert](trustform5.0/element/combo/alert.md)
       * [hint](trustform5.0/element/combo/hint.md)
       * [accesskey](trustform5.0/element/combo/accesskey.md)
