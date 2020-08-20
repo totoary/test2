@@ -6,9 +6,9 @@ description: 아이템을 배치할 방향을 설정하는 속성이다.
 
 ## DESCRIPTION
 
-아이템을 배치할 방향을 설정하는 속성이다. 
+아이템을 배치할 방향을 설정하는 속성이다.
 
-cols 속성을 2이상 설정해 주어야 효과가 나타난다. direction 을 acrossdown 으로 설정하면 세로로 먼저 배치하고 downacross 로 설정하면 가로로 먼저 배치한다. 
+cols 속성을 2이상 설정해 주어야 효과가 나타난다. direction 을 acrossdown 으로 설정하면 세로로 먼저 배치하고 downacross 로 설정하면 가로로 먼저 배치한다.
 
 이 속성을 설정되지 않으면 기본으로 acrossdown 으로 동작하게 된다.
 
@@ -22,10 +22,7 @@ acrossdown / downacross
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="combo2" ref="/root/combo2" appearance="minimal" cols="2" direction="downacross" style="left:70px; top:375px; width:115px; height:25px; ">  
+<select1 id="combo2" ref="/root/combo2" appearance="minimal" cols="2" direction="downacross" style="left:70px; top:375px; width:115px; height:25px; ">
 ```
 {% endcode %}
-
-
- 
 
