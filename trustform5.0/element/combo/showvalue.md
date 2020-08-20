@@ -21,5 +21,17 @@ showvalue 속성을 true 로 설정하면 combo list 에 label 값과 value 값�
 showvalue 를 true 로 설정한 경우 focusIndex 는 짝수로 증가하게된다. 이유는 콤보 리스트 상의 label 과 value 를 각각 하나의 아이템으로 생성하기 때문이다.
 {% endhint %}
 
-## E
+## VALUES
+
+true / false
+
+## EXAMPLE
+
+{% code title="\[Static\]" %}
+```markup
+<select1 id="itemCombo" ref="/root/selectedItem" appearance="minimal" showvalue="true" style="left:110px; top:260px; width:225px; height:20px; "> 
+```
+{% endcode %}
+
+
 
