@@ -16,9 +16,8 @@ attribute itemcount를 설정하면 콤보를 펼쳤을때 combo list 에 나타
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="combo1" ref="/root/univ" appearance="minimal" 
-itemcount="2" style="left:130px; top:280px; width:240px; 
-height:20px; ">
+<select1 id="combo1" ref="/root/univ" appearance="minimal" itemcount="2" 
+style="left:130px; top:280px; width:240px; height:20px; ">
 ```
 {% endcode %}
 
