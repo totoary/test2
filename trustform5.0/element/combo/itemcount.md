@@ -12,8 +12,6 @@ attribute itemcount를 설정하면 콤보를 펼쳤을때 combo list 에 나타
 
 * 이 속성의 최대값은 30 이다.  
 
-## VALUES
-
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
