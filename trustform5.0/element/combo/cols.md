@@ -12,5 +12,9 @@ cols 를 설정하고 direction attribute 를 accrossdown 또는 downacross 로 
 
 ## EXAMPLE
 
-
+{% code title="\[Static\]" %}
+```markup
+<select1 id="combo2" ref="/root/selected2" appearance="minimal" cols="2" style="left:265px; top:285px; width:130px; height:23px; ">  
+```
+{% endcode %}
 
