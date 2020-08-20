@@ -12,7 +12,13 @@ vcellspacing 은 item의 높이 길이는 제외한 아이템과 아이템 사�
 
 이 속성은 설정하지 않으면 기본으로 0 이 설정이 된다
 
-## E
+## EXAMPLE
+
+{% code title="\[Static\]" %}
+```markup
+<select1 id="combo2" appearance="minimal" vcellspacing="50" style="left:295px; top:265px; width:100px; height:20px; ">  
+```
+{% endcode %}
 
 
 
