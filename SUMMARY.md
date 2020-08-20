@@ -65,7 +65,7 @@
 		  * [help](trustform5.0/element/attribute/input/help.md)
 		  * [hint](trustform5.0/element/attribute/input/hint.md)
 		  * [accesskey](trustform5.0/element/attribute/input/accesskey.md)
-		  * [autonext ](trustform5.0/element/attribute/input/autonext .md)
+		  * [autonext](trustform5.0/element/attribute/input/autonext .md)
 		  * [bind](trustform5.0/element/attribute/input/bind.md)
 		  * [class](trustform5.0/element/attribute/input/class.md)
 		  * [disabled](trustform5.0/element/attribute/input/disabled.md)
