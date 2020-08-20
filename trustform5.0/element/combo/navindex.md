@@ -20,7 +20,8 @@ TF 에서는 모든 컨트롤은 navindex 를 가진다. Output 같은 컨트롤
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="combo" navindex="-1" appearance="minimal" style="left:55px; top:65px; width:160px; height:25px; ">
+<select1 id="combo" navindex="-1" appearance="minimal" 
+style="left:55px; top:65px; width:160px; height:25px; ">
 ```
 {% endcode %}
 
