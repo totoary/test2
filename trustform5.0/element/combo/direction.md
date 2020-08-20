@@ -14,11 +14,11 @@ cols 속성을 2이상 설정해 주어야 효과가 나타난다. direction 을
 
 * showvalue 속성을 ture 로 설정할 경우 direction 의 설정은 무시된다. 
 
-## V
+## VALUES
 
 acrossdown / downacross
 
-## E
+## EXAMPLE
 
 
 
