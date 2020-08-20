@@ -6,7 +6,7 @@ description: 아이템과 아이템 사이의 세로 방향 간격을 지정하�
 
 ## DESCRIPTION
 
-vcellspacing 과 itemheight 는 비슷한 속성인데 차이는 다음과 같다. 
+vcellspacing 과 itemheight 는 비슷한 속성인데 차이는 다음과 같다.
 
 vcellspacing 은 item의 높이 길이는 제외한 아이템과 아이템 사이의 간격만을 지정하는 속성이고, itemheight 는 하나의 아이템이 차지하는 전체 넓이 공간을 지정하는 속성이다.
 
@@ -16,9 +16,8 @@ vcellspacing 은 item의 높이 길이는 제외한 아이템과 아이템 사�
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="combo2" appearance="minimal" vcellspacing="50" style="left:295px; top:265px; width:100px; height:20px; ">  
+<select1 id="combo2" appearance="minimal" vcellspacing="50" 
+style="left:295px; top:265px; width:100px; height:20px; ">
 ```
 {% endcode %}
-
-
 
