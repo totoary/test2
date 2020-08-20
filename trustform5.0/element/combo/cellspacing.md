@@ -14,3 +14,11 @@ cellspacing 과 itemwidth 는 비슷한 속성인데 차이는 다음과 같다.
 
 ## EXAMPLE
 
+{% code title="Static" %}
+```markup
+<select1 id="combo2" ref="/root/combo2" appearance="minimal" 
+cellspacing="30" cols="2" style="left:355px; top:285px; width:120px;
+ height:20px; "> 
+```
+{% endcode %}
+
