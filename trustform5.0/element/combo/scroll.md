@@ -20,3 +20,7 @@ description: combo 의 스크롤바가 화면에 표시 되는 방법을 설정�
 overflow 가 scroll 외의 것으로 설정되어 있으면 동작하지 않는다.
 {% endhint %}
 
+## VALUES
+auto / vertical / horizontal / both / autovscroll / autohscroll
+
+
