@@ -17,12 +17,15 @@ attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립�
 
 ## VALUES
 
-visible / hidden 
+visible / hidden
 
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="nationCombo" ref="/root/country" visibility="visible" appearance="minimal" style="left:50px; top:345px; width:125px; height:25px; ">  
+<select1 id="nationCombo" ref="/root/country" visibility="visible" 
+appearance="minimal" style="left:50px; top:345px; width:125px; 
+height:25px; ">
 ```
 {% endcode %}
+
