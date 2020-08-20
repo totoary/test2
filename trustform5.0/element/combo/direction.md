@@ -20,6 +20,11 @@ acrossdown / downacross
 
 ## EXAMPLE
 
+{% code title="\[Static\]" %}
+```markup
+<select1 id="combo2" ref="/root/combo2" appearance="minimal" cols="2" direction="downacross" style="left:70px; top:375px; width:115px; height:25px; ">  
+```
+{% endcode %}
 
 
  
