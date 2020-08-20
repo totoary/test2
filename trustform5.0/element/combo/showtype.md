@@ -14,15 +14,15 @@ description: '콤보 리스트에 value 값만, 혹은 label 값만, 혹은 valu
 
 ## VALUES
 
-value / label / all
+ value / label / all
 
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="itemCombo" ref="/root/selectedItem" showtype="value"  
-appearance="minimal" showvalue="true" style="left:110px; top:260px; 
-width:225px; height:20px">
+<select1 id="itemCombo" ref="/root/selectedItem" appearance="minimal" showvalue="true" showtype="value" style="left:110px; top:260px; width:225px; height:20px"> 
 ```
 {% endcode %}
+
+
 
