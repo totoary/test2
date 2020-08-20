@@ -21,6 +21,6 @@ overflow 가 scroll 외의 것으로 설정되어 있으면 동작하지 않는�
 {% endhint %}
 
 ## VALUES
-
 auto / vertical / horizontal / both / autovscroll / autohscroll
+
 

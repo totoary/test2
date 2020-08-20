@@ -17,7 +17,8 @@ itemwidth 가 combo 의 width 보다 크게 설정되어 있다면 item 의 넓�
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="combo1" appearance="minimal" style="left:110px; top:285px; width:100px; height:21px; ">
+<select1 id="combo1" appearance="minimal" style="left:110px; 
+top:285px; width:100px; height:21px; ">
 ```
 {% endcode %}
 

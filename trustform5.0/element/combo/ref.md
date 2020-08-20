@@ -14,8 +14,9 @@ combo 의 item 중 선택된 item 의 value 값이 ref 에 지정된 인스턴�
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="way" ref="/root/payway" appearance="minimal" 
-style="left:75px; top:270px; width:110px; height:20px; ">
+<select1 id="way" ref="/root/payway" appearance="minimal" style="left:75px; top:270px; width:110px; height:20px; ">  
 ```
 {% endcode %}
+
+
 
