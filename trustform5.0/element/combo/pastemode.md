@@ -10,11 +10,17 @@ pastemode 속성을 default 로 설정하면 기존에 동작하던 것처럼 �
 
 이 속성을 설정하지 않으면 기본으로 default 가 설정된다.\(모든 값 붙여넣기 가능\)
 
-## V
+## VALUES
 
 default / validchars
 
-## E
+## EXAMPLE
+
+{% code title="\[Static\]" %}
+```markup
+<select1 id="input" ref="/root/select/" appearance="minimal" editmode="input" pastemode="validchars" style="left:225px; top:280px; width:100px; height:20px; ">  
+```
+{% endcode %}
 
 
 
