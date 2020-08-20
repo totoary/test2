@@ -12,3 +12,9 @@ class = "aaa bbb" 와 같이 띄어쓰기가 들어간 형식은 지원하지 �
 
 ## EXAMPLE
 
+{% code title="\[Static\]" %}
+```markup
+<select1 id="combo1" ref="/root/selected" class="comboClass" appearance="minimal" style="left:105px; top:270px; width:185px; height:25px; ">  
+```
+{% endcode %}
+
