@@ -23,8 +23,8 @@ true / false
 {% code title="\[Static\]" %}
 ```markup
 <select1 id="shirtColor" ref="/root/shirtColor" dragmode="true" 
-appearance="minimal" style="left:110px; top:320px; width:105px; 
-height:25px; text-align:center; background-color:transparent; ">
+appearance="minimal" style="left:110px; top:320px; width:105px; height:25px; 
+text-align:center; background-color:transparent; ">
 ```
 {% endcode %}
 

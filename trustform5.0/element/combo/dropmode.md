@@ -20,8 +20,9 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="student" ref="/root/selecteMan" dropmode="true" appearance="minimal" 
-style="left:140px; top:450px; width:135px; height:25px; ">
+<select1 id="student" ref="/root/selecteMan" dropmode="true" 
+appearance="minimal" style="left:140px; top:450px; width:135px; 
+height:25px; ">
 ```
 {% endcode %}
 
