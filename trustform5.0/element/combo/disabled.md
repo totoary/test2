@@ -18,8 +18,9 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="payWay" ref="/root/payWay" disabled="true" appearance="minimal" 
-style="left:315px; top:430px; width:100px; height:20px; ">
+<select1 id="payWay" ref="/root/payWay" disabled="true" 
+appearance="minimal" style="left:315px; top:430px; width:100px; 
+height:20px; ">
 ```
 {% endcode %}
 
