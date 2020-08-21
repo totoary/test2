@@ -20,7 +20,8 @@ round / ceil / floor
 
 {% code title="\[Static\]" %}
 ```markup
-<output id="output1" format="#,###" roundmode="round" roundposition="2" style="left:75px; top:290px; width:100px; height:20px; "/>
+<output id="output1" format="#,###" roundmode="round" roundposition="2"
+ style="left:75px; top:290px; width:100px; height:20px; "/>
 ```
 {% endcode %}
 
