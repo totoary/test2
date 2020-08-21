@@ -1,8 +1,6 @@
-# hint
-
-### &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-### description: output 컨트롤의 tootip 내용을 설정한다.
+---
+description: output 컨트롤의 tootip 내용을 설정한다.
+---
 
 ## hint
 
@@ -17,11 +15,6 @@ hint를 동적으로 바꾸기 위해서는 hint property를 사용한다. hint 
 ### EXAMPLE
 
 {% code title="\[Static\]" %}
-```
-
-```
-{% endcode %}
-
 ```markup
 <hint> 
 
@@ -29,4 +22,7 @@ hint를 동적으로 바꾸기 위해서는 hint property를 사용한다. hint 
 
 </hint>
 ```
+{% endcode %}
+
+
 
