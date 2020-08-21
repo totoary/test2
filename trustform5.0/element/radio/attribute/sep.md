@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 description: checkbox 에 맵핑된 인스턴스의 구분자를 설정 하는 속성이다.     
 ---
