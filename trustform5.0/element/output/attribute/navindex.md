@@ -18,8 +18,7 @@ TF 에서는 모든 컨트롤은 navindex 를 가진다. Caption, Output 같은 
 
 {% code title="\[Static\]" %}
 ```markup
-<output id="output1" navindex="-1"  style="left:75px; top:290px; 
-width:100px; height:20px; "/>
+<output id="output1" navindex="-1"  style="left:75px; top:290px; width:100px; height:20px; "/>
 ```
 {% endcode %}
 

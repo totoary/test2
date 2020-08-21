@@ -14,8 +14,7 @@ output 컨트롤은 기본적으로 인스턴스가 필수는 아니지만 인�
 
 {% code title="\[Static\]" %}
 ```markup
-<output id="output1" ref="/root/Basic" style="left:75px; top:290px; 
-width:100px; height:20px; "/>
+<output id="output1" ref="/root/Basic" style="left:75px; top:290px; width:100px; height:20px; "/>
 ```
 {% endcode %}
 

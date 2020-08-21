@@ -18,8 +18,7 @@ yyyy-mm-dd / hh:nn:ss / \#,\#\#\# / 999999-9999999
 
 {% code title="\[Static\]" %}
 ```markup
-<output id="output1" format="#,###" style="left:75px; top:290px; 
-width:100px; height:20px; "/>
+<output id="output1" format="#,###" style="left:75px; top:290px; width:100px; height:20px; "/>
 ```
 {% endcode %}
 
