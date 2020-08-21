@@ -183,7 +183,6 @@
         * [help](trustform5.0/element/output/attribute/help.md)
         * [hint](trustform5.0/element/output/attribute/hint.md)
         * [accesskey](trustform5.0/element/output/attribute/accesskey.md)
-        * [autoresize](trustform5.0/element/output/attribute/autoresize.md)
         * [bind](trustform5.0/element/output/attribute/bind.md)
         * [class](trustform5.0/element/output/attribute/class.md)
         * [ellipsis](trustform5.0/element/output/attribute/ellipsis.md)
