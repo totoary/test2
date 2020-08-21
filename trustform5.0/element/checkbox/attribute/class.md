@@ -13,5 +13,8 @@ class = "aaa bbb" 와 같이 띄어쓰기가 들어간 형식은 지원하지 �
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
+```
+
+```
 {% endcode %}
 

@@ -1,11 +1,12 @@
-<<<<<<< HEAD
----
-description: 컨트롤의 포커스 이동 순서인 navigation index 속성을 설정하는 속성이다.
----
-
 # navindex
 
-## DESCRIPTION
+### &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+### description: 컨트롤의 포커스 이동 순서인 navigation index 속성을 설정하는 속성이다.
+
+## navindex
+
+### DESCRIPTION
 
 navindex 가 -1 이면 해당 컨트롤은 navigation index 에 영향을 받지 않는다. \(tab key 를 이용한 포커스 이동에서 제외된다.
 
@@ -17,7 +18,7 @@ TF 에서는 모든 컨트롤은 navindex 를 가진다. Output 같은 컨트롤
 스크립트에서 동적으로 navindex 를 변경 하기 위해서는 navindex property 를 사용해야 한다.
 {% endhint %}
 
-## EXAMPLE
+### EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
@@ -26,14 +27,13 @@ style="left:55px; top:65px; width:160px; height:25px; ">
 ```
 {% endcode %}
 
-=======
----
-description: 컨트롤의 포커스 이동 순서인 navigation index 속성을 설정하는 속성이다.
----
+### =======
 
-# navindex
+### description: 컨트롤의 포커스 이동 순서인 navigation index 속성을 설정하는 속성이다.
 
-## DESCRIPTION
+## navindex
+
+### DESCRIPTION
 
 navindex 가 -1 이면 해당 컨트롤은 navigation index 에 영향을 받지 않는다. \(tab key 를 이용한 포커스 이동에서 제외된다.
 
@@ -45,7 +45,7 @@ TF 에서는 모든 컨트롤은 navindex 를 가진다. Output 같은 컨트롤
 스크립트에서 동적으로 navindex 를 변경 하기 위해서는 navindex property 를 사용해야 한다.
 {% endhint %}
 
-## EXAMPLE
+### EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
@@ -54,4 +54,5 @@ style="left:55px; top:65px; width:160px; height:25px; ">
 ```
 {% endcode %}
 
->>>>>>> eaecbff44ad16a728baa64cf76485a2e44cd3f57
+> > > > > > > eaecbff44ad16a728baa64cf76485a2e44cd3f57
+

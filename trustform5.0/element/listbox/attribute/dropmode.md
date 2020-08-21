@@ -1,11 +1,12 @@
-<<<<<<< HEAD
----
-description: 다른 컨트롤에서 드래그 한 값을 현재 컨트롤에 드롭할 수 있도록 해주는 속성이다.
----
-
 # dropmode
 
-## DESCRIPTION
+### &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+### description: 다른 컨트롤에서 드래그 한 값을 현재 컨트롤에 드롭할 수 있도록 해주는 속성이다.
+
+## dropmode
+
+### DESCRIPTION
 
 dropmode 를 true 로 설정하면 사용자가 마우스로 다른 컨트롤에서 드래그 한 후 combo 컨트롤에 드롭 동작을 할 수 있도록 한다.
 
@@ -13,11 +14,11 @@ dropmode 를 true 로 설정하면 사용자가 마우스로 다른 컨트롤에
 
 * drag & drop 은 application view 에서는 동작하지 않고 IE 에서만 동작한다.    
 
-## VALUES
+### VALUES
 
 true / false
 
-## EXAMPLE
+### EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
@@ -27,14 +28,13 @@ height:25px; ">
 ```
 {% endcode %}
 
-=======
----
-description: 다른 컨트롤에서 드래그 한 값을 현재 컨트롤에 드롭할 수 있도록 해주는 속성이다.
----
+### =======
 
-# dropmode
+### description: 다른 컨트롤에서 드래그 한 값을 현재 컨트롤에 드롭할 수 있도록 해주는 속성이다.
 
-## DESCRIPTION
+## dropmode
+
+### DESCRIPTION
 
 dropmode 를 true 로 설정하면 사용자가 마우스로 다른 컨트롤에서 드래그 한 후 combo 컨트롤에 드롭 동작을 할 수 있도록 한다.
 
@@ -42,11 +42,11 @@ dropmode 를 true 로 설정하면 사용자가 마우스로 다른 컨트롤에
 
 * drag & drop 은 application view 에서는 동작하지 않고 IE 에서만 동작한다.    
 
-## VALUES
+### VALUES
 
 true / false
 
-## EXAMPLE
+### EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
@@ -56,4 +56,5 @@ height:25px; ">
 ```
 {% endcode %}
 
->>>>>>> eaecbff44ad16a728baa64cf76485a2e44cd3f57
+> > > > > > > eaecbff44ad16a728baa64cf76485a2e44cd3f57
+

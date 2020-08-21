@@ -1,11 +1,12 @@
-<<<<<<< HEAD
----
-description: 컨트롤에서 드래그를 할 수 있도록 해주는 속성이다.
----
-
 # dragmode
 
-## DESCRIPTION
+### &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+### description: 컨트롤에서 드래그를 할 수 있도록 해주는 속성이다.
+
+## dragmode
+
+### DESCRIPTION
 
 dragmode true 로 설정하면 사용자가 마우스로 combo 컨트롤에서 드래그 동작을 할 수 있도록 설정만 해준다.
 
@@ -15,11 +16,11 @@ combo, treeview, radio, checkbox, listbox 는 label과 value 값을 동시에 �
 
 * drag & drop 은 application view 에서는 동작하지 않고 IE 에서만 동작한다.  
 
-## VALUES
+### VALUES
 
 true / false
 
-## EXAMPLE
+### EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
@@ -29,14 +30,13 @@ height:25px; text-align:center; background-color:transparent; ">
 ```
 {% endcode %}
 
-=======
----
-description: 컨트롤에서 드래그를 할 수 있도록 해주는 속성이다.
----
+### =======
 
-# dragmode
+### description: 컨트롤에서 드래그를 할 수 있도록 해주는 속성이다.
 
-## DESCRIPTION
+## dragmode
+
+### DESCRIPTION
 
 dragmode true 로 설정하면 사용자가 마우스로 combo 컨트롤에서 드래그 동작을 할 수 있도록 설정만 해준다.
 
@@ -46,11 +46,11 @@ combo, treeview, radio, checkbox, listbox 는 label과 value 값을 동시에 �
 
 * drag & drop 은 application view 에서는 동작하지 않고 IE 에서만 동작한다.  
 
-## VALUES
+### VALUES
 
 true / false
 
-## EXAMPLE
+### EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
@@ -60,4 +60,5 @@ height:25px; text-align:center; background-color:transparent; ">
 ```
 {% endcode %}
 
->>>>>>> eaecbff44ad16a728baa64cf76485a2e44cd3f57
+> > > > > > > eaecbff44ad16a728baa64cf76485a2e44cd3f57
+

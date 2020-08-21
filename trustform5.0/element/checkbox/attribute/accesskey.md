@@ -23,7 +23,7 @@ f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode\(20\) / ctrl+enter /
 
 {% code title="\[Static\]" %}
 ```markup
-<select id="checkbox" accesskey="f2">  
+<select id="checkbox" accesskey="f2">
 ```
 {% endcode %}
 
