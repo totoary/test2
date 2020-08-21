@@ -15,14 +15,10 @@ help 속성은 다른 attribute 처럼 Element 안에 속성 형태로 설정되
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
-```
-
-```
-{% endcode %}
-
 ```markup
 <help>
     <![CDATA[ 이곳에 Help의 내용을 입력하세요 ]]> 
-</help>
+</help>s 
 ```
+{% endcode %}
 
