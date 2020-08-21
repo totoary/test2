@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 description: 아이템과 아이템 사이의 가로 방향 간격을 지정하는 속성이다.
 ---
@@ -8,44 +7,16 @@ description: 아이템과 아이템 사이의 가로 방향 간격을 지정하�
 ## DESCRIPTION
 
 아이템과 아이템 사이의 가로 방향 간격을 지정하는 속성이다. 
+cellspacing 과 itemwidth 는 비슷한 속성인데 차이는 다음과 같다. 
 
-cellspacing 과 itemwidth 는 비슷한 속성인데 차이는 다음과 같다. cellspacing 은 item의 넓이 길이는 제외한 아이템과 아이템 사이의 간격만을 지정하는 속성이고, itemwidth 는 하나의 아이템이 차지하는 전체 넓이 공간을 지정하는 속성이다. 
-
-이 속성은 설정하지 않으면 기본으로 0 이 설정이 된다.
-
-## EXAMPLE
-
-{% code title="Static" %}
-```markup
-<select1 id="combo2" ref="/root/combo2" appearance="minimal" 
-cellspacing="30" cols="2" style="left:355px; top:285px; width:120px;
- height:20px; "> 
-```
-{% endcode %}
-
-=======
----
-description: 아이템과 아이템 사이의 가로 방향 간격을 지정하는 속성이다.
----
-
-# cellspacing
-
-## DESCRIPTION
-
-아이템과 아이템 사이의 가로 방향 간격을 지정하는 속성이다. 
-
-cellspacing 과 itemwidth 는 비슷한 속성인데 차이는 다음과 같다. cellspacing 은 item의 넓이 길이는 제외한 아이템과 아이템 사이의 간격만을 지정하는 속성이고, itemwidth 는 하나의 아이템이 차지하는 전체 넓이 공간을 지정하는 속성이다. 
-
-이 속성은 설정하지 않으면 기본으로 0 이 설정이 된다.
+cellspacing : item의 넓이 길이는 제외한 아이템과 아이템 사이의 간격만을 지정하는 속성이고
+itemwidth : 하나의 아이템이 차지하는 전체 넓이 공간을 지정하는 속성이다. 
 
 ## EXAMPLE
 
 {% code title="Static" %}
 ```markup
-<select1 id="combo2" ref="/root/combo2" appearance="minimal" 
-cellspacing="30" cols="2" style="left:355px; top:285px; width:120px;
- height:20px; "> 
+<select id="listbox" overflow="visible" appearance="compact" cellspacing="50" cols="3" 
+direction="acrossdown" style="left:395px; top:455px; width:100px; height:85px; border-style:none; ">  
 ```
 {% endcode %}
-
->>>>>>> eaecbff44ad16a728baa64cf76485a2e44cd3f57

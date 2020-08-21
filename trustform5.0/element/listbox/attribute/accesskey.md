@@ -21,6 +21,18 @@ description: 지정된 컨트롤에 접근하기 위한 단축키를 설정할 �
 
 f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode\(20\) / ctrl+enter /
 
+<<<<<<< HEAD
+## EXAMPLE
+
+{% code title="\[Static\]" %}
+```markup
+<select id="doing" ref="/root/selected" accesskey="ctrl+a" overflow="scroll" 
+appearance="compact" style="left:340px; top:265px; width:135px; height:150px; 
+font-weight:bold; background-color:#ffff99; "> 
+```
+{% endcode %}
+
+=======
 ### EXAMPLE
 
 ### DESCRIPTION
@@ -51,3 +63,4 @@ style="left:50px; top:215px; width:100px; height:20px; ">
 
 > > > > > > > eaecbff44ad16a728baa64cf76485a2e44cd3f57
 
+>>>>>>> 39a9e6e02e8ed3a645ed43cf175046a74b66407c

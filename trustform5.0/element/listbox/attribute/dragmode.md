@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+---
+description: 컨트롤에서 드래그를 할 수 있도록 해주는 속성이다.
+---
+
+=======
+>>>>>>> 39a9e6e02e8ed3a645ed43cf175046a74b66407c
 # dragmode
 
 ### &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
@@ -8,7 +15,7 @@
 
 ### DESCRIPTION
 
-dragmode true 로 설정하면 사용자가 마우스로 combo 컨트롤에서 드래그 동작을 할 수 있도록 설정만 해준다.
+dragmode true 로 설정하면 사용자가 마우스로 listbox 컨트롤에서 드래그 동작을 할 수 있도록 설정만 해준다.
 
 드래그시 특정값을 dragData 에 넣거나, 그 외 다른 동작을 수행 하고 싶은 경우에는, ondragstart 이벤트에서 event.dropData 에 데이터를 넣어주거나 수행하고싶은 동작을 수행하면 된다.
 
@@ -24,11 +31,14 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="shirtColor" ref="/root/shirtColor" dragmode="true" 
-appearance="minimal" style="left:110px; top:320px; width:105px; 
-height:25px; text-align:center; background-color:transparent; ">
+<select id="options" ref="/root/selectedOptions" dragmode="true" 
+overflow="hidden" appearance="compact" style="left:110px; top:295px; width:135px; 
+height:125px; font-weight:bold; color:#008000; text-align:center; background-color:#ccffff; 
+border-color:#cc99ff; border-width:3px; border-style:dotted; ">
 ```
 {% endcode %}
+<<<<<<< HEAD
+=======
 
 ### =======
 
@@ -62,3 +72,4 @@ height:25px; text-align:center; background-color:transparent; ">
 
 > > > > > > > eaecbff44ad16a728baa64cf76485a2e44cd3f57
 
+>>>>>>> 39a9e6e02e8ed3a645ed43cf175046a74b66407c
