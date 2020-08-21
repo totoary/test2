@@ -4,6 +4,8 @@ description: listbox 컨트롤의 tootip 의 내용을 설정한다.
 
 # hint
 
+## hint
+
 ### DESCRIPTION
 
 마우스를 listbox 컨트롤에 올려놓고 있으면 hint 에 설정 해 놓은 내용이 마우스 포인터 옆에 툴팁형태로 보인다.
@@ -23,7 +25,8 @@ hint 속성은 다른 attribute 처럼 Element 안에 속성형태로 설정되�
 </hint>
 ```
 {% endcode %}
-<<<<<<< HEAD
-=======
 
->>>>>>> 39a9e6e02e8ed3a645ed43cf175046a74b66407c
+## &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+> > > > > > > 39a9e6e02e8ed3a645ed43cf175046a74b66407c
+

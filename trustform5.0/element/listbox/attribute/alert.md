@@ -14,9 +14,7 @@ validation에 실패 했을 경우 해당내용을 alert창 형태로 보여준�
 ```markup
 <alert ev:event="onclick">
       <![CDATA[ 이곳에 내용을 입력하세요 ]]>
-</alert> 
+</alert>
 ```
 {% endcode %}
-
-
 

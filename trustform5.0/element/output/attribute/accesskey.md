@@ -24,6 +24,7 @@ f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode\(20\) / ctrl+enter /
 {% code title="\[Static\]" %}
 ```markup
 <output id="KeyBoard1" ref="/root/no1" accesskey="1" 
-style="left:23px; top:98px; width:40px; height:25px; "/> 
+style="left:23px; top:98px; width:40px; height:25px; "/>
 ```
 {% endcode %}
+
