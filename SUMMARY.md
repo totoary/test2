@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [TrustForm5.0가이드](trustform5.0/README.md)
-  * [copyNode](trustform5.0/copynode.md)
   * [TrustForm 5.0 소개](trustform5.0/trustform-5.0/README.md)
     * [TrustForm 5.0 소개](trustform5.0/trustform-5.0/trustform-5.0.md)
   * [element](trustform5.0/element/README.md)
