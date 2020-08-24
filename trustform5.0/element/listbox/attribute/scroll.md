@@ -32,6 +32,7 @@ auto / vertical / horizontal / both / autovscroll / autohscroll
 ```markup
 <select id="sampleListbox" ref="/root/selectValue" overflow="scroll" 
 appearance="compact" style="left:60px; top:215px; width:200px; height:150px; 
-border-color:#ffcc00; border-width:3px; border-style:dashed; ">  
+border-color:#ffcc00; border-width:3px; border-style:dashed; ">
 ```
 {% endcode %}
+
