@@ -143,7 +143,7 @@
         * [hint](trustform5.0/element/listbox/attribute/hint.md)
         * [accesskey](trustform5.0/element/listbox/attribute/accesskey.md)
         * [class](trustform5.0/element/listbox/attribute/class/README.md)
-          * [disabled](trustform5.0/element/listbox/attribute/class/disabled.md)
+        * [disabled](trustform5.0/element/listbox/attribute/class/disabled.md)
         * [dragmode](trustform5.0/element/listbox/attribute/dragmode.md)
         * [dropmode](trustform5.0/element/listbox/attribute/dropmode.md)
         * [id](trustform5.0/element/listbox/attribute/id.md)
