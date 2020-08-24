@@ -1,11 +1,10 @@
-
----
-description: 다른 컨트롤에서 드래그 한 값을 현재 컨트롤에 드롭할 수 있도록 해주는 속성이다.
----
-
 # dropmode
 
-## DESCRIPTION
+### description: 다른 컨트롤에서 드래그 한 값을 현재 컨트롤에 드롭할 수 있도록 해주는 속성이다.
+
+## dropmode
+
+### DESCRIPTION
 
 dropmode 를 true 로 설정하면 사용자가 마우스로 다른 컨트롤에서 드래그 한 후 listbox 컨트롤에 드롭 동작을 할 수 있도록 한다.
 
@@ -13,11 +12,11 @@ dropmode 를 true 로 설정하면 사용자가 마우스로 다른 컨트롤에
 
 * drag & drop 은 application view 에서는 동작하지 않고 IE 에서만 동작한다.    
 
-## VALUES
+### VALUES
 
 true / false
 
-## EXAMPLE
+### EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
@@ -25,3 +24,4 @@ true / false
 style="left:70px; top:350px; width:155px; height:160px; border-style:solid; ">
 ```
 {% endcode %}
+

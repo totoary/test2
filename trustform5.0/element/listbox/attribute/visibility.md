@@ -6,8 +6,7 @@ description: checkbox 컨트롤을 화면에 표시할 지를 설정하는 속�
 
 ## DESCRIPTION
 
-*visible : checkbox 컨트롤이 보인다.
-*hidden : checkbox 컨트롤이 보이지 않는다.
+_visible : checkbox 컨트롤이 보인다._ hidden : checkbox 컨트롤이 보이지 않는다.
 
 이 속성을 설정하지 않으면 기본으로 visible 로 동작한다.
 
@@ -28,5 +27,4 @@ appearance="compact" style="left:190px; top:470px; width:145px; height:60px; fon
 text-align:center; background-color:#ccffff; ">
 ```
 {% endcode %}
-
 

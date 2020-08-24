@@ -23,6 +23,3 @@ style="left:395px; top:455px; width:100px; height:45px; border-style:none; ">
 ```
 {% endcode %}
 
-
-
-
