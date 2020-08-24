@@ -1,5 +1,5 @@
 ---
-description: combo 컨트롤에 맵핑될 인스턴스의 XPath 경로를 지정하는 속성이다.
+description: listbox 컨트롤에 맵핑될 인스턴스의 XPath 경로를 지정하는 속성이다.
 ---
 
 # ref
