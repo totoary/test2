@@ -8,8 +8,6 @@ description: 지정된 컨트롤에 접근하기 위한 단축키를 설정할 �
 
 기본적으로 accesskey 속성에 지정한 키를 누르면 해당 컨트롤에 onaccesskey 이벤트와 DOMActivate 이벤트가 순차적으로 발생한다.
 
-형식 : \[namedkey \| keycode\(\)\] + …
-
 이 속성은 설정하지 않으면 accesskey 는 설정되지 않는다.
 
 {% hint style="info" %}
