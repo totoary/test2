@@ -2,8 +2,6 @@
 
 * [Introduction](README.md)
 * [TrustForm5.0가이드](trustform5.0/README.md)
-  * [TrustForm 5.0 소개](trustform5.0/trustform-5.0/README.md)
-    * [TrustForm 5.0 소개](trustform5.0/trustform-5.0/trustform-5.0.md)
   * [element](trustform5.0/element/README.md)
     * [ellipse](trustform5.0/element/ellipse/README.md)
       * [attribute](trustform5.0/element/ellipse/attribute/README.md)
