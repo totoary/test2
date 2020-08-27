@@ -1,6 +1,6 @@
 ---
-description: >-
-  editmenu 속성은 input 컨트롤이 edit 상태일때 마우스 오른쪽 버튼을 클릭할 경우 edit 메뉴가 보일지, 사용자 정의 메뉴가
+description: 
+  editmenu 속성은 textarea 컨트롤이 edit 상태일때 마우스 오른쪽 버튼을 클릭할 경우 edit 메뉴가 보일지, 사용자 정의 메뉴가
   보일지 설정하는 속성.
 ---
 

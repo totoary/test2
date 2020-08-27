@@ -1,12 +1,12 @@
 ---
-description: input 컨트롤의 disabled(비활성) 상태를 설정하는 속성
+description: textarea 컨트롤의 disabled(비활성) 상태를 설정하는 속성
 ---
 
 # disabled
 
 ## DESCRIPTION
 
-input 컨트롤의 disabled\(비활성\) 상태를 설정하는 속성이다.
+<textarea id="textarea1" bind="textareaBind" class="textareaClass" style="left:35px; top:60px; width:250px; height:240px; ">  컨트롤의 disabled\(비활성\) 상태를 설정하는 속성이다.
 
 컨트롤이 disabled 상태가 되면 모든 UI 에 관련된 이벤트를 받지 못하게 된다 \(UI 이벤트 : mouse, keyboard, scroll, focus/navindex 관련 event\)
 
@@ -24,7 +24,7 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<input id="address1" ref="/root/address" disabled="true" style="left:94px; top:119px; width:100px; height:20px; "/>
+<textarea id="textarea1" bind="textareaBind" disabled="true" style="left:35px; top:60px; width:250px; height:240px; "> 
 ```
 {% endcode %}
 

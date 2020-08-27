@@ -6,7 +6,7 @@ description: 스타일시트 클래스를 설정하거나 클래스 아이디를
 
 ## DESCRIPTION
 
-input 컨트롤에 스타일을 적용하기 위해 스타일시트 클래스를 설정하거나 클래스 아이디를 설정한다. class = "aaa bbb" 와 같이 띄어쓰기가 들어간 형식은 지원하지 않는다.
+textarea 컨트롤에 스타일을 적용하기 위해 스타일시트 클래스를 설정하거나 클래스 아이디를 설정한다. class = "aaa bbb" 와 같이 띄어쓰기가 들어간 형식은 지원하지 않는다.
 
 이 속성을 설정하지 않으면 class 는 설정되지 않는다.
 
@@ -16,7 +16,7 @@ input 컨트롤에 스타일을 적용하기 위해 스타일시트 클래스를
 
 {% code title="\[Static\]" %}
 ```markup
-<input id="Name" ref="/root/Name" class="nameClass" style="left:70px; top:85px; width:120px; height:25px; ">
+<textarea id="textarea1" bind="textareaBind" class="textareaClass" style="left:35px; top:60px; width:250px; height:240px; "> 
 ```
 {% endcode %}
 
