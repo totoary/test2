@@ -12,7 +12,7 @@ description: 특정 컨트롤을 식별하기 위한 고유의 이름을 설정�
 
 {% code title="\[Static\]" %}
 ```markup
-<input id="today" ref="/root/today" " format="hh:nn:ss" style="left:259px; top:9px; width:125px; height:25px;"/>
+<textarea id="agreementText" ref="/root/agreement/agreementText" style="left:50px; top:270px; width:210px; height:140px; "> 
 ```
 {% endcode %}
 

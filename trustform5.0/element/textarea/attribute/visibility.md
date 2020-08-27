@@ -1,12 +1,13 @@
 ---
-description: input 컨트롤을 화면에 표시할 지를 설정하는 속성이다.
+description: textarea 컨트롤을 화면에 표시할 지를 설정하는 속성이다.
 ---
 
 # visibility
 
 ## DESCRIPTION
 
-_visible : input 컨트롤이 보인다._ hidden : input 컨트롤이 보이지 않는다.
+_visible : textarea 컨트롤이 보인다.
+_ hidden : textarea 컨트롤이 보이지 않는다.
 
 visibility 속성의 기본값은 visible 이다.
 
@@ -22,7 +23,7 @@ visible / hidden
 
 {% code title="\[Static\]" %}
 ```markup
-<input id="number" ref="/root/number" visibility="hidden" style="left:85px; top:205px; width:100px; height:20px; "/>
+<textarea id="textarea1" ref="/root/data" visibility="hidden" style="left:95px; top:145px; width:200px; height:180px; "/> 
 ```
 {% endcode %}
 

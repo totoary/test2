@@ -1,5 +1,5 @@
 ---
-description: input 컨트롤의 imemode 를 설정하는 속성이다.
+description: textarea 컨트롤의 imemode를 설정하는 속성이다.
 ---
 
 # imemode
@@ -20,7 +20,7 @@ disabled / alpha / hangul
 
 {% code title="\[Static\]" %}
 ```markup
-<input id="korName" ref="/root/Name" imemode="hangul"style="left:70px; top:90px; width:100px; height:20px; "/>
+<textarea id="textarea1" ref="/root/from" imemode="disabled" style="left:30px; top:25px; width:220px; height:205px; "/> 
 ```
 {% endcode %}
 

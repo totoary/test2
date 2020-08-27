@@ -19,7 +19,7 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<input id="input2" ref="/root/input" editmenu="false" style="left:260px; top:343px; width:200px; height:20px; "/>
+<textarea id="textarea3" ref="/root/textarea" editmenu="false" style="left:260px; top:252px; width:200px; height:79px; "/> 
 ```
 {% endcode %}
 

@@ -18,7 +18,7 @@ default / validchars
 
 {% code title="\[Static\]" %}
 ```markup
-<input id="input1" ref="/root/input" pastemode="validchars" style="left:250px; top:340px; width:200px; height:20px;"/>
+<textarea id="textarea2" ref="/root/to" pastemode="validchars" style="left:255px; top:25px; width:220px; height:205px; "/> 
 ```
 {% endcode %}
 

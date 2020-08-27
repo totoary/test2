@@ -1,16 +1,16 @@
 ---
-description: radio의 자식 아이템들이 차지하는 영역에 대한 표현 방법 설정하는 속성이다.    
+description: textarea 컨트롤의 영역을 넘는 내용에 대한 표현 방법을 설정하는 속성이다.    
 ---
 
 #   overflow                       
 
 ## DESCRIPTION
 
-*visible : 모든 자식 아이템이 화면에 표시될 수 있도록 radio 영역을 확장하거나 축소한다.
-*hidden : 아이템들이 radio의 영역을 벗어나면 해당 영역은 화면에 보이지 않도록 한다.
-*scroll : 아이템들이 radio의 영역을 벗어나면 스크롤바를 표시한다.
+*visible : 내용이 textarea 의 영역을 벗어나면 모든 내용이 textarea 에 표시될 수 있도록 textarea 의 영역을 확장한다.
+*hidden : 내용이 textarea 의 영역을 벗어나면 영역을 벗어난 내용은 화면에 보이지 않도록 한다.
+*scroll :  내용이 textarea 의 영역을 벗어나면 스크롤바를 보여준다.
 
-이 속성을 설정하지 않으면 기본으로 visible 이 설정된다. 
+이 속성을 설정하지 않으면 기본으로 scroll 로 설정한 것과 같이 동작한다.   
 
 ## VALUES
 
@@ -20,8 +20,7 @@ visible / hidden / scroll
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="radio1" overflow="scroll" appearance="full" 
-style="left:130px; top:260px; width:80px; height:145px; background-color:#d0f5ff; 
-border-style:none; ">   
+<textarea id="homeTextarea" ref="/root/addressSample/introduce" overflow="visible" 
+style="left:55px; top:335px; width:330px; height:140px; ">  
 ```
 {% endcode %}
