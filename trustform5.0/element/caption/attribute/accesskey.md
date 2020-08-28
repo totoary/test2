@@ -23,7 +23,7 @@ f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode\(20\) / ctrl+enter /
 
 {% code title="\[Static\]" %}
 ```markup
-<caption id="caption1" ref="/root/aq" accesskey="ctrl+s" style="left:50px; top:215px; width:100px; height:20px; "> 
+<caption id="caption1" ref="/root/aq" accesskey="ctrl+s" style="left:50px; top:215px; width:100px; height:20px; ">
 ```
 {% endcode %}
 

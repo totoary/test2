@@ -16,7 +16,7 @@ caption 컨트롤에 스타일을 적용하기 위해 스타일시트 클래스�
 
 {% code title="\[Static\]" %}
 ```markup
-<caption id="caption1" class="captionClass" style="left:35px; top:230px; width:100px; height:20px; "> 
+<caption id="caption1" class="captionClass" style="left:35px; top:230px; width:100px; height:20px; ">
 ```
 {% endcode %}
 

@@ -12,7 +12,7 @@ bind 창에서 bind 를 설정한 다음 bind 를 사용할 caption 컨트롤에
 
 {% code title="\[Static\]" %}
 ```markup
-<caption id="caption1" bind="totalBind" style="left:30px; top:240px; width:100px; height:20px; "> 
+<caption id="caption1" bind="totalBind" style="left:30px; top:240px; width:100px; height:20px; ">
 ```
 {% endcode %}
 

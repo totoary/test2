@@ -18,7 +18,7 @@ cols 를 설정하고 direction attribute 를 accrossdown 또는 downacross 로 
 ```markup
 <select1 id="radio1" ref="/root/selected1" overflow="visible" appearance="full" 
 style="left:55px; top:285px; width:130px; height:23px; background-color:#ccffff; 
-border-style:none; "> 
+border-style:none; ">
 ```
 {% endcode %}
 

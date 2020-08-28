@@ -12,7 +12,7 @@ description: 특정 컨트롤을 식별하기 위한 고유의 이름을 설정�
 
 {% code title="\[Static\]" %}
 ```markup
-<caption id="itemTitle" style="left:50px; top:230px; width:60px; height:20px;" /> 
+<caption id="itemTitle" style="left:50px; top:230px; width:60px; height:20px;" />
 ```
 {% endcode %}
 

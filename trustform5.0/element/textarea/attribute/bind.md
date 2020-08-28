@@ -12,7 +12,7 @@ bind 창에서 bind 를 설정한 다음 bind 를 사용할 textarea 컨트롤�
 
 {% code title="\[Static\]" %}
 ```markup
-<textarea id="textarea1" bind="textareaBind" style="left:35px; top:60px; width:250px; height:240px; "> 
+<textarea id="textarea1" bind="textareaBind" style="left:35px; top:60px; width:250px; height:240px; ">
 ```
 {% endcode %}
 

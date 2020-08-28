@@ -18,9 +18,8 @@ description: textarea 의 스크롤바가 화면에 표시 되는 방법을 설�
 
 이 속성을 설정하지 않으면 기본으로 auto 로 설정한 것과 같이 동작한다.
 
-
 {% hint style="info" %}
-overflow 가 scroll 외의 것으로 설정되어 있으면 동작하지 않는다.  
+overflow 가 scroll 외의 것으로 설정되어 있으면 동작하지 않는다.
 {% endhint %}
 
 ## VALUES
@@ -32,6 +31,7 @@ auto / vertical / horizontal / both / autovscroll / autohscroll / none
 {% code title="\[Static\]" %}
 ```markup
 <textarea id="homeTextarea" ref="/root/addressSample/introduce" scroll="autovscroll" 
-style="left:55px; top:335px; width:330px; height:140px; "> 
+style="left:55px; top:335px; width:330px; height:140px; ">
 ```
 {% endcode %}
+

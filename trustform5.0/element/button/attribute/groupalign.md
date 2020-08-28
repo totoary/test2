@@ -1,8 +1,8 @@
 ---
-description: 그룹 버튼들의 모양을 지정하는 속성이다.    
+description: 그룹 버튼들의 모양을 지정하는 속성이다.
 ---
 
-#   groupalign                        
+# groupalign
 
 ## DESCRIPTION
 
@@ -11,19 +11,16 @@ description: 그룹 버튼들의 모양을 지정하는 속성이다.
 * user : 사용자가 스타일을 직접 설정할 수 있도록 보통 버튼과 같이 사각형의 모양
 
 {% hint style="info" %}
+
 {% endhint %}
-  
+
 ## VALUES
-
-
 
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
- 
+
 ```
 {% endcode %}
-
-
 

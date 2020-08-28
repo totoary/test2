@@ -20,7 +20,7 @@ disabled / alpha / hangul
 
 {% code title="\[Static\]" %}
 ```markup
-<textarea id="textarea1" ref="/root/from" imemode="disabled" style="left:30px; top:25px; width:220px; height:205px; "/> 
+<textarea id="textarea1" ref="/root/from" imemode="disabled" style="left:30px; top:25px; width:220px; height:205px; "/>
 ```
 {% endcode %}
 

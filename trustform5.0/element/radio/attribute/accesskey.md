@@ -27,6 +27,7 @@ f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode\(20\) / ctrl+enter /
 ```markup
 <select1 id="fruits" ref="/root/select/selectedData" accesskey="ctrl+d" overflow="visible" 
 appearance="full" style="left:50px; top:255px;width:105px; height:170px; 
-background-color:#ccffff; border-style:none; ">   
+background-color:#ccffff; border-style:none; ">
 ```
 {% endcode %}
+

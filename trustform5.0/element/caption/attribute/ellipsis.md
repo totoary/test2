@@ -20,7 +20,7 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<caption id="titlecap" ellipsis="true" style="left:160px; top:230px; width:100px; height:20px; font-weight:bold; color:#808080; vertical-align:middle; "> 
+<caption id="titlecap" ellipsis="true" style="left:160px; top:230px; width:100px; height:20px; font-weight:bold; color:#808080; vertical-align:middle; ">
 ```
 {% endcode %}
 

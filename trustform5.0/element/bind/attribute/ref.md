@@ -1,8 +1,8 @@
 ---
-description: bind 에 맵핑되어 있는 ref 속성      
+description: bind 에 맵핑되어 있는 ref 속성
 ---
 
-#   ref                       
+# ref
 
 ## DESCRIPTION
 
@@ -14,6 +14,7 @@ description: bind 에 맵핑되어 있는 ref 속성
 
 {% code title="\[Static\]" %}
 ```markup
-<bind id="bind1" ref="/root/ok" />  
+<bind id="bind1" ref="/root/ok" />
 ```
 {% endcode %}
+

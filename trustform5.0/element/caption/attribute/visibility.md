@@ -17,13 +17,13 @@ attribute 는 디자인 시점에 설정하는 속성이기 때문에 스크립�
 
 ## VALUES
 
-visible(default) / hidden
+visible\(default\) / hidden
 
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
-<caption id="caption1" visibility="hidden" style="left:55px; top:200px; width:100px; height:20px; "> 
+<caption id="caption1" visibility="hidden" style="left:55px; top:200px; width:100px; height:20px; ">
 ```
 {% endcode %}
 

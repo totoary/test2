@@ -16,7 +16,7 @@ textarea 컨트롤에 스타일을 적용하기 위해 스타일시트 클래스
 
 {% code title="\[Static\]" %}
 ```markup
-<textarea id="textarea1" bind="textareaBind" class="textareaClass" style="left:35px; top:60px; width:250px; height:240px; "> 
+<textarea id="textarea1" bind="textareaBind" class="textareaClass" style="left:35px; top:60px; width:250px; height:240px; ">
 ```
 {% endcode %}
 

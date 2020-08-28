@@ -18,7 +18,7 @@ TF 에서는 모든 컨트롤은 navindex 를 가진다. Caption, Output 같은 
 
 {% code title="\[Static\]" %}
 ```markup
-<textarea id="textarea1" ref="/root/from" navindex="1" style="left:30px; top:25px; width:220px; height:205px; "/> 
+<input id="nationality" ref="/root/nationality" navindex="1" style="left:144px; top:9px; width:115px; height:20px; "/>
 ```
 {% endcode %}
 

@@ -19,7 +19,7 @@ description: radio 의 스크롤바가 화면에 표시 되는 방법을 설정�
 이 속성을 설정하지 않으면 기본으로 auto 가 설정된다.
 
 {% hint style="info" %}
-overflow 가 scroll 로 설정되어 있을 때만 작동한다. 
+overflow 가 scroll 로 설정되어 있을 때만 작동한다.
 {% endhint %}
 
 ## VALUES
@@ -32,6 +32,7 @@ auto / vertical / horizontal / both / autovscroll / autohscroll
 ```markup
  <select1 id="sampleRadio" ref="/root/select" overflow="scroll" scroll="auto" 
  appearance="full" cols="3" style="left:115px; top:275px; width:165px; height:110px; 
- border-style:none; "> 
+ border-style:none; ">
 ```
 {% endcode %}
+

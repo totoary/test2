@@ -22,7 +22,7 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<textarea id="textarea2" ref="/root/to" editable="false" style="left:255px; top:25px; width:220px; height:205px; "/> 
+<textarea id="textarea2" ref="/root/to" editable="false" style="left:255px; top:25px; width:220px; height:205px; "/>
 ```
 {% endcode %}
 

@@ -26,7 +26,7 @@ f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode\(20\) / ctrl+enter /
 {% code title="\[Static\]" %}
 ```markup
 <textarea id="textarea1" ref="/root/data" accesskey="ctrl+keycode(49)" 
-style="left:35px; top:60px; width:250px; height:240px; "> 
+style="left:35px; top:60px; width:250px; height:240px; ">
 ```
 {% endcode %}
 

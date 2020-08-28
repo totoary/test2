@@ -1,7 +1,7 @@
 ---
-description: 
-  editmenu 속성은 textarea 컨트롤이 edit 상태일때 마우스 오른쪽 버튼을 클릭할 경우 edit 메뉴가 보일지, 사용자 정의 메뉴가
-  보일지 설정하는 속성.
+description: >-
+  editmenu 속성은 textarea 컨트롤이 edit 상태일때 마우스 오른쪽 버튼을 클릭할 경우 edit 메뉴가 보일지, 사용자 정의
+  메뉴가 보일지 설정하는 속성.
 ---
 
 # editmenu
@@ -19,7 +19,7 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<textarea id="textarea3" ref="/root/textarea" editmenu="false" style="left:260px; top:252px; width:200px; height:79px; "/> 
+<textarea id="textarea3" ref="/root/textarea" editmenu="false" style="left:260px; top:252px; width:200px; height:79px; "/>
 ```
 {% endcode %}
 
