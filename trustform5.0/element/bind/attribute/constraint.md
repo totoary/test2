@@ -10,8 +10,6 @@ constraint 는 제약조건을 지정하며 그 제약조건에 따라 값이 �
 
 xforms-valid 와 xforms-invalid 이벤트는 최초 로딩시점과 model.revalidate\(\) 가 수행될 때와 사용자가 입력값을 바꾸거나 model.refresh\(\) 되는 시점에서 발생한다. xforms-invaild 이벤트를 사용하여 데이터의 유효성을 체크할 수 있다.
 
-{% hint style="info" %}
-
 bind 창을 통해서 생성시 참고.
 
 * Bind ID : bind 의 ID.
