@@ -10,7 +10,15 @@ description: ref 에 지정된 노드의 type 을 지정해주는 속성이다.
 
 ## VALUES
 
-xsd:anyURI / xsd:base64Binary / xsd:boolean / xsd:byte / xsd:date / xsd:dateTime xsd:decimal / xsd:double / xsd:float / xsd:gDay / xsd:gMonth / xsd:gMonthDay xsd:gYear / xsd:gYearMonth / xsd:hexBinary / xsd:int / xsd:integer / xsd:long xsd:negativeInteger / xsd:nonNegativeInteger / xsd:nonPositiveInteger / xsd:normalizedString xsd:positiveInteger / xsd:short / xsd:string / xsd:time xsd:unsignedByte / xsd:unsignedInt / xsd:unsignedLong / xsd:unsignedShort
+xsd:anyURI / xsd:base64Binary / xsd:boolean / xsd:byte / xsd:date / xsd:dateTime xsd:decimal
+
+ xsd:double / xsd:float / xsd:gDay / xsd:gMonth / xsd:gMonthDay xsd:gYear / xsd:gYearMonth
+
+ xsd:hexBinary / xsd:int / xsd:integer / xsd:long xsd:negativeInteger / xsd:nonNegativeInteger
+
+ xsd:nonPositiveInteger / xsd:normalizedString xsd:positiveInteger / xsd:short / xsd:string 
+
+xsd:time xsd:unsignedByte / xsd:unsignedInt / xsd:unsignedLong / xsd:unsignedShort
 
 ## EXAMPLE
 
