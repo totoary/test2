@@ -1,42 +1,18 @@
-<<<<<<< HEAD
 ---
-description: checkbox 컨트롤과 연동할 bind 의 id 를 지정하는 속성     
+description: radio 컨트롤에 bind 를 지정할 때 사용하는 속성이다.
 ---
 
-#   bind                       
+# bind
 
 ## DESCRIPTION
 
-bind 를 사용하면 calculate, constraint 등 편리한 기능을 사용할 수 있다.  
-bind를 checkbox 에 연결시키면 사용하면 집적 checkbox에 인스턴스를 맵핑하는 것이 아니라 
-checkbox에 맵핑된 bind 의 ref 에 설정된 XPath 경로에 있는 인스턴스가 checkbx 에 맵핑된 인스턴스의 역할을 한다.
-이 속성은 설정하지 않으면 bind는 설정이 되지 않는다.
+bind 를 radio 에 연결시키면 사용하면 집적 radio 에 인스턴스를 맵핑하는 것이 아니라 radio 에 맵핑된 bind 의 ref 에 설정된 XPath 의 경로에 있는 인스턴스가 radio 에 맵핑된 인스턴스의 역할을 한다.
 
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
-<select id="checkbox1" bind="bind1" overflow="visible" appearance="full" style="left:50px; top:280px; width:125px; height:135px; border-style:none; ">
+<select1 id="payway" bind="pay" overflow="visible" appearance="full" style="left:550px; top:470px; width:70px; height:40px; border-style:none; ">
 ```
-=======
----
-description: checkbox 컨트롤과 연동할 bind 의 id 를 지정하는 속성     
----
-
-#   bind                       
-
-## DESCRIPTION
-
-bind 를 사용하면 calculate, constraint 등 편리한 기능을 사용할 수 있다.  
-bind를 checkbox 에 연결시키면 사용하면 집적 checkbox에 인스턴스를 맵핑하는 것이 아니라 
-checkbox에 맵핑된 bind 의 ref 에 설정된 XPath 경로에 있는 인스턴스가 checkbx 에 맵핑된 인스턴스의 역할을 한다.
-이 속성은 설정하지 않으면 bind는 설정이 되지 않는다.
-
-## EXAMPLE
-
-{% code title="\[Static\]" %}
-```markup
-<select id="checkbox1" bind="bind1" overflow="visible" appearance="full" style="left:50px; top:280px; width:125px; height:135px; border-style:none; ">
-```
->>>>>>> eaecbff44ad16a728baa64cf76485a2e44cd3f57
 {% endcode %}
+

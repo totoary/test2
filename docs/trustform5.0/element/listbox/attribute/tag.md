@@ -1,27 +1,10 @@
-<<<<<<< HEAD
 ---
-description: Namespace 와 Element 이름을 나타내는 속성     
+description: Namespace 와 Element 이름을 나타내는 속성
 ---
 
-#   tag                       
+# tag
 
 ## DESCRIPTION
 
-컨트롤의 Namespace 와 Element 이름을 나타내는 속성이다.
-이 속성은 xrw 코드에서 해당 컨트롤의 태그이름을 나타내는 속성이다.   
-  
+컨트롤의 Namespace 와 Element 이름을 나타내는 속성이다. 이 속성은 xrw 코드에서 해당 컨트롤의 태그이름을 나타내는 속성이다.
 
-=======
----
-description: Namespace 와 Element 이름을 나타내는 속성     
----
-
-#   tag                       
-
-## DESCRIPTION
-
-컨트롤의 Namespace 와 Element 이름을 나타내는 속성이다.
-이 속성은 xrw 코드에서 해당 컨트롤의 태그이름을 나타내는 속성이다.   
-  
-
->>>>>>> eaecbff44ad16a728baa64cf76485a2e44cd3f57

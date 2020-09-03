@@ -18,9 +18,7 @@ default / validchars
 
 {% code title="\[Static\]" %}
 ```markup
-<select1 id="input" ref="/root/select/" appearance="minimal" 
-editmode="input" pastemode="validchars" style="left:225px; 
-top:280px; width:100px; height:20px; ">
+<input id="input1" ref="/root/input" pastemode="validchars" style="left:250px; top:340px; width:200px; height:20px;"/>
 ```
 {% endcode %}
 
