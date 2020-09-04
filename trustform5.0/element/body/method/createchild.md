@@ -11,9 +11,9 @@ description: 해당 컨트롤에 하위에 자식 Element 를 생성하고 생�
 * 이미 존재하는 id 로 중복하여 createChild 를 사용할 경우, 자식 Element 는 만들어지지 않고, 이미 존재하는 Element 를 반환한다.
 
 ## S
----
+```
 \[ Element = \] body.createChild\(String elementName, String attributes\)
----
+```
 
 ```coffeescript
 
