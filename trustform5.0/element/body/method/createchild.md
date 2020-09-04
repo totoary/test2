@@ -16,8 +16,3 @@ description: 해당 컨트롤에 하위에 자식 Element 를 생성하고 생�
 [ Element = ] body.createChild\(String elementName, String attributes)
 ```
 
-```coffeescript
-]
-RRRRERWRWERWERERE
-```
-
