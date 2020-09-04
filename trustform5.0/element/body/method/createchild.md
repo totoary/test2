@@ -91,7 +91,7 @@ window.createGreeting = function(s) {
 전역 라이브러리를 UMD 라이브러리로 바꾸는게 쉽기 때문에, 전역 스타일로 작성한 인기 라이브러리는 거의 없습니다.
 하지만, 크기가 작고 DOM이 필요한 (혹은 의존성이 *없는*) 라이브러리는 여전히 전역입니다.
 
-### 전역 라이브러리 템플릿 (Global Library Template)
+### 전역 라이브러리 템플릿 (Global Library Temrplate)
 
 템플릿 파일 [`global.d.ts`](./templates/global.d.ts.md)은 예제 라이브러리 `myLib`를 정의합니다.
 ["이름 충돌 방지" 각주](#preventing-name-conflicts)를 반드시 읽어보세요.
