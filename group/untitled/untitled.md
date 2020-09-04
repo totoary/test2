@@ -1,12 +1,12 @@
 # Untitled
 
-## ARAMETERS
+## PARAMETERS
 
 * String name : 동적으로 변경할 attribute의 이름
 
 ## PUT VALUES
 
-{% api-method method="options" host="" path="" %}
+{% api-method method="putvalue" host="" path="" %}
 {% api-method-summary %}
 
 {% endapi-method-summary %}
@@ -48,7 +48,7 @@
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="" path="" %}
+{% api-method method="getvalue" host="" path="" %}
 {% api-method-summary %}
 
 {% endapi-method-summary %}
@@ -80,7 +80,6 @@
 {% endapi-method-spec %}
 {% endapi-method %}
 
-## Have you had a chance to answer the previous question?
 
 
 
