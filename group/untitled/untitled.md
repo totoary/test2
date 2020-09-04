@@ -6,7 +6,7 @@
 
 ## PUT VALUES
 
-{% api-method method="put" host="" path="" %}
+{% api-method method="putvalue" host="" path="" %}
 {% api-method-summary %}
 
 {% endapi-method-summary %}
@@ -48,7 +48,7 @@
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="" path="" %}
+{% api-method method="getvalue" host="" path="" %}
 {% api-method-summary %}
 
 {% endapi-method-summary %}
