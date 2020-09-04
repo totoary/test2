@@ -22,7 +22,7 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<calendar id="toCalendar" disabled="true" style="left:375px; top:280px; width:220px; height:150px; "/> 
+<calendar id="toCalendar" disabled="true" style="left:375px; top:280px; width:220px; height:150px; "/>
 ```
 {% endcode %}
 

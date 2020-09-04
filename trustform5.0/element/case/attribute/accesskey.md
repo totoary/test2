@@ -25,7 +25,7 @@ f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode\(20\) / ctrl+enter /
 
 {% code title="\[Static\]" %}
 ```markup
-<case id="case1" accesskey="ctrl+enter"> 
+<case id="case1" accesskey="ctrl+enter">
 ```
 {% endcode %}
 

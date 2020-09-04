@@ -16,7 +16,7 @@ case 컨트롤에 스타일을 적용하기 위해 스타일시트 클래스를 
 
 {% code title="\[Static\]" %}
 ```markup
-<case id="case3" class="case3_Class"> 
+<case id="case3" class="case3_Class">
 ```
 {% endcode %}
 

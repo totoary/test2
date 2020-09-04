@@ -22,7 +22,7 @@ true / false
 
 {% code title="\[Static\]" %}
 ```markup
-<bool id="bool1" disabled="true" style="left:345px; top:60px; width:100px; height:20px; "/> 
+<bool id="bool1" disabled="true" style="left:345px; top:60px; width:100px; height:20px; "/>
 ```
 {% endcode %}
 

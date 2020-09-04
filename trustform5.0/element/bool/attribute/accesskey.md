@@ -25,7 +25,7 @@ f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode\(20\) / ctrl+enter /
 
 {% code title="\[Static\]" %}
 ```markup
-<bool id="bool1" accesskey="shift+f2" style="left:345px; top:60px; width:100px; height:20px; "/> 
+<bool id="bool1" accesskey="shift+f2" style="left:345px; top:60px; width:100px; height:20px; "/>
 ```
 {% endcode %}
 

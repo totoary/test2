@@ -25,7 +25,7 @@ f1 / f2 / ctrl+f1 / shift+f2 / ctrl+keyCode\(20\) / ctrl+enter /
 
 {% code title="\[Static\]" %}
 ```markup
-<calendar id="calendar1" accesskey="ctrl+s" style="left:55px; top:35px; width:220px; height:150px; "/> 
+<calendar id="calendar1" accesskey="ctrl+s" style="left:55px; top:35px; width:220px; height:150px; "/>
 ```
 {% endcode %}
 

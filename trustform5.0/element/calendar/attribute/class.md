@@ -16,7 +16,7 @@ calendar 컨트롤에 스타일을 적용하기 위해 스타일시트 클래스
 
 {% code title="\[Static\]" %}
 ```markup
-<calendar id="sampleCalendar" class="calendar_class" style="left:30px; top:215px; width:220px; height:150px; "/> 
+<calendar id="sampleCalendar" class="calendar_class" style="left:30px; top:215px; width:220px; height:150px; "/>
 ```
 {% endcode %}
 
