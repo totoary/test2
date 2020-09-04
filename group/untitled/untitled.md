@@ -80,7 +80,6 @@
 {% endapi-method-spec %}
 {% endapi-method %}
 
-## Have you had a chance to answer the previous question?
 
 
 
