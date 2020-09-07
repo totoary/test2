@@ -14,9 +14,8 @@ description: 해당 컨트롤에 하위에 자식 Element 를 생성하고 생�
 
 ### S
 
-```markup
- body.createChild(String elementName, String attributes)
-```
+`body.createChild(String elementName, String attributes)`
+
 
 ## 개요 \(Overview\)
 
