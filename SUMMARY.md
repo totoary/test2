@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [bind](bind/README.md)
+  * [property](bind/property/README.md)
+    * [attribute](bind/property/attribute.md)
   * [attribute](bind/attribute/README.md)
     * [calculate](bind/attribute/calculate.md)
     * [constraint](bind/attribute/constraint.md)
