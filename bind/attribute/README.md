@@ -1,8 +1,9 @@
 # attribute
 
-## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+## DESCRIPTION 
+                                                                                
+## SYNTAX 
 
 ```scheme
 [ String = ] bind.attribute(String name) [ = String ] 
