@@ -1,2 +1,2 @@
-# \[method\]\(trustform5.0/element/submission/attribute/method.md
+# method\]\(submission/attribute/method.md
 

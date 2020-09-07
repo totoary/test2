@@ -1,2 +1,2 @@
-# \[resultref\]\(trustform5.0/element/submission/attribute/resultref.md
+# resultref\]\(submission/attribute/resultref.md
 

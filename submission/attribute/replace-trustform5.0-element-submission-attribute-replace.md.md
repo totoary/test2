@@ -1,2 +1,2 @@
-# \[replace\]\(trustform5.0/element/submission/attribute/replace.md
+# replace\]\(submission/attribute/replace.md
 

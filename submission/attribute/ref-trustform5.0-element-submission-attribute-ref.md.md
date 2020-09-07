@@ -1,2 +1,2 @@
-# \[ref\]\(trustform5.0/element/submission/attribute/ref.md
+# ref\]\(submission/attribute/ref.md
 

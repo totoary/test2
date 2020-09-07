@@ -1,2 +1,2 @@
-# \[encoding\]\(trustform5.0/element/submission/attribute/encoding.md
+# encoding\]\(submission/attribute/encoding.md
 

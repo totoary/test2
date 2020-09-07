@@ -1,5 +1,5 @@
 ---
-description: col 의 type 이 combo 일때 콤보에 검색, 입력과 같은 기능을 설정하는 속성 
+description: 'col 의 type 이 combo 일때 콤보에 검색, 입력과 같은 기능을 설정하는 속성'
 ---
 
 # editmode
@@ -11,14 +11,16 @@ description: col 의 type 이 combo 일때 콤보에 검색, 입력과 같은 �
 * inputsearch : 콤보 컨트롤에 검색기능과 입력기능을 사용한다.  search 로 설정 했을 때와 비슷한 기능이다. 다른점은 search 기능 사용시 입력한 값으로 시작하거나 같은 label 을 가지는 아이템이 없을 경우 입력값이 무시되는 반면, inputsearch 는 아이템 리스트 에 존재하지 않는 값도 입력이 된다는 점이다.
 
 {% hint style="info" %}
-search 로 설정이 되어 있을 때, 아이템 리스트에 존재하지 않는 값을 입력할 경우에는 이전에 선택되어 있는 값으로 보여지도록 설정되어 있다.   
+search 로 설정이 되어 있을 때, 아이템 리스트에 존재하지 않는 값을 입력할 경우에는 이전에 선택되어 있는 값으로 보여지도록 설정되어 있다.
 {% endhint %}
+
 ## VALUES
 
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
-<col editmode="search" ref="a" type="combo"/> 
+<col editmode="search" ref="a" type="combo"/>
 ```
 {% endcode %}
+

@@ -12,18 +12,15 @@ img 컨트롤에 설정하는 ref 속성의 값은 img 의 경로를 나타내�
 
 맵핑된 인스턴스에 속성으로 type = "xsd:base64Binary" 로 설정된 경우 해당 데이터를 decoding 하여 이미지로 변환해서 보여준다.
 
-
 {% hint style="info" %}
-src 속성으로 image 가 설정되어 있고, ref 속성으로 image 의 경로가 설정되어 있을 경우에는 ref 속성으로 설정된 경로의 image 를 화면에 보여준다. 
+src 속성으로 image 가 설정되어 있고, ref 속성으로 image 의 경로가 설정되어 있을 경우에는 ref 속성으로 설정된 경로의 image 를 화면에 보여준다.
 {% endhint %}
 
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
-img id="img1" ref="/root/Basic/img1" style="left:40px; top:215px; width:165px; height:155px; background-stretch:stretch; "/> 
+img id="img1" ref="/root/Basic/img1" style="left:40px; top:215px; width:165px; height:155px; background-stretch:stretch; "/>
 ```
 {% endcode %}
-
-
 
