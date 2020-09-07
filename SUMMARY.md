@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [bind](bind/README.md)
-  * [property](bind/property.md)
   * [attribute](bind/attribute/README.md)
     * [calculate](bind/attribute/calculate.md)
     * [constraint](bind/attribute/constraint.md)
@@ -14,6 +13,8 @@
     * [script](bind/attribute/script.md)
     * [tag](bind/attribute/tag.md)
     * [type](bind/attribute/type.md)
+  * [property](bind/property/README.md)
+    * [attribute](bind/property/attribute.md)
 * [body](body/README.md)
   * [method](body/method/README.md)
     * [createChild](body/method/createchild.md)
