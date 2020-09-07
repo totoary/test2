@@ -18,7 +18,7 @@ ID of the cake to get, for free of course.
 {% endapi-method-path-parameters %}
 
 {% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
+{% api-method-parameter name="Authentication" type="number" required=true %}
 Authentication token to track down who is emptying our stocks.
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
@@ -34,9 +34,17 @@ Whether the cake should be gluten-free or not.
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}
 
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
 
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
