@@ -6,7 +6,8 @@ description: 다른 컨트롤에서 드래그 한 값을 현재 컨트롤에 드
 
 ## DESCRIPTION
 
-dropmode 를 true 로 설정했을 때 input 에 드롭 동작을 하면 event.dropData 에 저장되어 있는 데이터가 input 에 입력된다. 드랍 시 이외에 다른 동작을 원하는 경우 ondrop 이벤트에서 스크립트를 설정하면 된다.
+dropmode 를 true 로 설정했을 때 img 에 드롭 동작을 하면 event.dropData 에 저장되어 있는 데이터가 img 에 입력된다.
+드랍 시 이외에 다른 동작을 원하는 경우 ondrop 이벤트에서 스크립트를 설정하면 된다.
 
 이 속성은 설정하지 않으면 기본으로 false 가 설정된다,
 
@@ -14,13 +15,14 @@ dropmode 를 true 로 설정했을 때 input 에 드롭 동작을 하면 event.d
 
 ## VALUES
 
-true / false
+true / false(default)
 
 ## EXAMPLE
 
 {% code title="\[Static\]" %}
 ```markup
-<input id="answer" ref="/root/answerValue" dropmode="true" style="left:130px; top:185px; width:100px; height:20px;">
+<img id="img1" dragmode="true" dropmode="true" src="drag_image1.jpg" style="left:65px; top:245px; 
+width:155px; height:120px; background-stretch:stretch; "> 
 ```
 {% endcode %}
 
