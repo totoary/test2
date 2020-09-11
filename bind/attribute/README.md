@@ -1,12 +1,11 @@
 # attribute
 
+## DESCRIPTION
 
-## DESCRIPTION 
-                                                                                
-## SYNTAX 
+## SYNTAX
 
 ```scheme
-[ String = ] bind.attribute(String name) [ = String ] 
+[ String = ] bind.attribute(String name) [ = String ]
 ```
 
 {% hint style="info" %}
@@ -27,6 +26,6 @@
 
       ]]>
 
-</script> 
+</script>
 ```
 
